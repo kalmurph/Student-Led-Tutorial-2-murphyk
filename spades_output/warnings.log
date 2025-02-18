@@ -1,0 +1,6 @@
+
+=== Error correction and assembling warnings:
+ * 0:00:24.079   103M / 1645M WARN    General                 (kmer_coverage_model.cpp   : 218)   Too many erroneous kmers, the estimates might be unreliable
+ * 0:00:30.321   103M / 1857M WARN    General                 (kmer_coverage_model.cpp   : 327)   Valley value was estimated improperly, reset to 4
+ * 0:01:10.521   172M / 1857M WARN    General                 (pair_info_count.cpp       : 377)   Estimated mean insert size 165.962 is very small compared to read length 151
+======= Warnings saved to /ocean/projects/agr250001p/murphyk/Student-Led-Tutorial-2-murphyk/spades_output/warnings.log
